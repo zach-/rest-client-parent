@@ -1,0 +1,12 @@
+{"FindCompetitorResponse": {
+  "@ServiceVersionNumber": "6.0",
+  "TransactionDetail":   {
+    "ServiceTransactionID": "Id-19c30fa05272778211ebef3e-1",
+    "TransactionTimestamp": "2013-10-31T11:30:10"
+  },
+  "TransactionResult":   {
+    "SeverityText": "Error",
+    "ResultID": "CM018",
+    "ResultText": "No candidates resulted for the given input criteria."
+  }
+}}

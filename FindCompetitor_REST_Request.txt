@@ -1,0 +1,2 @@
+GET https://maxcvservices.dnb.com/V6.0/organizations/804735132/competitors
+Authorization: <My Token>

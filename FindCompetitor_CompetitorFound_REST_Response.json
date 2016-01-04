@@ -1,0 +1,557 @@
+{
+  "FindCompetitorResponse": {
+    "@ServiceVersionNumber": "6.0",
+      "TransactionDetail": {
+        "ServiceTransactionID": "Id-5a50daf5527278af89fbffff-1",
+        "TransactionTimestamp": "2013-10-31T11:35:12"
+      },
+      "TransactionResult": {
+        "SeverityText": "Information",
+        "ResultID": "CM000",
+        "ResultText": "Success"
+      },
+      "FindCompetitorResponseDetail": {
+        "Competitor": [
+          {
+            "DUNSNumber": "382014330",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Cap Gemini S.A."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Paris",
+              "CountryISOAlpha2Code": "FR",
+              "CountryOfficialName": "France"
+            },
+            "GlobalUltimateDUNSNumber": "382014330",
+            "ParentDUNSNumber": "382014330",
+            "SalesRevenueAmount": [{"$": 13563.876}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "275127975",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Alcatel-Lucent"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Paris",
+              "CountryISOAlpha2Code": "FR",
+              "TerritoryAbbreviatedName": "Paris",
+              "CountryOfficialName": "France"
+            },
+            "GlobalUltimateDUNSNumber": "275127975",
+            "ParentDUNSNumber": "275127975",
+            "SalesRevenueAmount": [{"$": 19090.389}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "316268655",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "SAP AG"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Walldorf",
+              "CountryISOAlpha2Code": "DE",
+              "CountryOfficialName": "Germany"
+            },
+            "GlobalUltimateDUNSNumber": "316268655",
+            "ParentDUNSNumber": "316268655",
+            "SalesRevenueAmount": [{"$": 21438.6945}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "915361146",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Wipro Technologies"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Bangalore",
+              "CountryISOAlpha2Code": "IN",
+              "TerritoryAbbreviatedName": "Karnataka",
+              "CountryOfficialName": "India"
+            },
+            "GlobalUltimateDUNSNumber": "650174378",
+            "ParentDUNSNumber": "650174378",
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "916152424",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Tata Consultancy Services Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Mumbai",
+              "CountryISOAlpha2Code": "IN",
+              "TerritoryAbbreviatedName": "Maharashtra",
+              "CountryOfficialName": "India"
+            },
+            "GlobalUltimateDUNSNumber": "650048044",
+            "ParentDUNSNumber": "650048044",
+            "SalesRevenueAmount": [{"$": 11527.07484}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "862172652",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "HCL Technologies Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Noida",
+              "CountryISOAlpha2Code": "IN",
+              "TerritoryAbbreviatedName": "Uttar Pradesh",
+              "CountryOfficialName": "India"
+            },
+            "GlobalUltimateDUNSNumber": "862172652",
+            "ParentDUNSNumber": "862172652",
+            "SalesRevenueAmount": [{"$": 3705.754845}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "650088735",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Infosys Technologies Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Bengaluru",
+              "CountryISOAlpha2Code": "IN",
+              "TerritoryAbbreviatedName": "Karnataka",
+              "CountryOfficialName": "India"
+            },
+            "GlobalUltimateDUNSNumber": "650088735",
+            "ParentDUNSNumber": "650088735",
+            "SalesRevenueAmount": [{"$": 7398}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "985015354",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Accenture plc"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Dublin",
+              "CountryISOAlpha2Code": "IE",
+              "CountryOfficialName": "Ireland"
+            },
+            "GlobalUltimateDUNSNumber": "985015354",
+            "ParentDUNSNumber": "985015354",
+            "SalesRevenueAmount": [{"$": 30394.285}],
+            "TopCompetitorIndicator": true
+          },
+          {
+            "DUNSNumber": "690710561",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "NTT DATA CORPORATION"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Koto-Ku",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Tokyo",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690626718",
+            "ParentDUNSNumber": "690626718",
+            "SalesRevenueAmount": [{"$": 13813.59401}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690549639",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Seiko Epson Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Suwa",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Nagano",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690549639",
+            "ParentDUNSNumber": "690549639",
+            "SalesRevenueAmount": [{"$": 9032.26117}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690549118",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Ricoh Company, Ltd."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Chuo-Ku",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Tokyo",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690549118",
+            "ParentDUNSNumber": "690549118",
+            "SalesRevenueAmount": [{"$": 20418.91317}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690543517",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Toshiba Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Minato-Ku",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Tokyo",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690543517",
+            "ParentDUNSNumber": "690543517",
+            "SalesRevenueAmount": [{"$": 62973.09799}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690553649",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Sony Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Tokyo",
+              "CountryISOAlpha2Code": "JP",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690553649",
+            "ParentDUNSNumber": "690553649",
+            "SalesRevenueAmount": [{"$": 72157.02911}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690541685",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "NEC Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Minato-Ku",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Tokyo",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690541685",
+            "ParentDUNSNumber": "690541685",
+            "SalesRevenueAmount": [{"$": 32589.77149}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690536552",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Panasonic Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Kadoma",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Osaka",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690536552",
+            "ParentDUNSNumber": "690536552",
+            "SalesRevenueAmount": [{"$": 77485.30745}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690541503",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Hitachi, Ltd."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Tokyo",
+              "CountryISOAlpha2Code": "JP",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690541503",
+            "ParentDUNSNumber": "690541503",
+            "SalesRevenueAmount": [{"$": 95925.76331}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "690535281",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Fujitsu Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Minato-Ku",
+              "CountryISOAlpha2Code": "JP",
+              "TerritoryAbbreviatedName": "Tokyo",
+              "CountryOfficialName": "Japan"
+            },
+            "GlobalUltimateDUNSNumber": "690535281",
+            "ParentDUNSNumber": "690535281",
+            "SalesRevenueAmount": [{"$": 46490.13408}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "353957491",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Telefonaktiebolaget LM Ericsson"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Kista",
+              "CountryISOAlpha2Code": "SE",
+              "TerritoryAbbreviatedName": "Stockholm",
+              "CountryOfficialName": "Sweden"
+            },
+            "GlobalUltimateDUNSNumber": "353957491",
+            "ParentDUNSNumber": "353957491",
+            "SalesRevenueAmount": [{"$": 34986.8544}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "656122470",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Taiwan Semiconductor Manufacturing Company Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Hsinchu City",
+              "CountryISOAlpha2Code": "TW",
+              "CountryOfficialName": "Taiwan"
+            },
+            "GlobalUltimateDUNSNumber": "656122470",
+            "ParentDUNSNumber": "656122470",
+            "SalesRevenueAmount": [{"$": 17384.576924}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "002563455",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Deloitte Consulting LLP"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "New York",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "NY",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "014127109",
+            "ParentDUNSNumber": "014127109",
+            "SalesRevenueAmount": [{"$": 494.2}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "799901301",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Cognizant Technology Solutions Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Teaneck",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "NJ",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "799901301",
+            "ParentDUNSNumber": "799901301",
+            "SalesRevenueAmount": [{"$": 7346.472}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "046667523",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "HP Enterprise Services, LLC"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Plano",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "TX",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "009122532",
+            "ParentDUNSNumber": "009122532",
+            "SalesRevenueAmount": [{"$": 12659.9}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "623331717",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Lexmark International, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Lexington",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "KY",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "623331717",
+            "ParentDUNSNumber": "623331717",
+            "SalesRevenueAmount": [{"$": 3797.6}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "144709193",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Oracle Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Redwood City",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "CA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "144709193",
+            "ParentDUNSNumber": "144709193",
+            "SalesRevenueAmount": [{"$": 37180}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "037787298",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Novell, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Provo",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "UT",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "783359602",
+            "ParentDUNSNumber": "103377503",
+            "SalesRevenueAmount": [{"$": 313.6}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "081466849",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Microsoft Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Redmond",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "WA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "081466849",
+            "ParentDUNSNumber": "081466849",
+            "SalesRevenueAmount": [{"$": 77849}],
+            "TopCompetitorIndicator": true
+          },
+          {
+            "DUNSNumber": "047897855",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Intel Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Santa Clara",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "CA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "047897855",
+            "ParentDUNSNumber": "047897855",
+            "SalesRevenueAmount": [{"$": 53341}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "153804570",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Cisco Systems, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "San Jose",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "CA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "153804570",
+            "ParentDUNSNumber": "153804570",
+            "SalesRevenueAmount": [{"$": 48607}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "114315195",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Dell Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Round Rock",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "TX",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "114315195",
+            "ParentDUNSNumber": "114315195",
+            "SalesRevenueAmount": [{"$": 56940}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "011589751",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "BMC Software, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Houston",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "TX",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "079161545",
+            "ParentDUNSNumber": "079161545",
+            "SalesRevenueAmount": [{"$": 2201.4}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "005358932",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Unisys Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Blue Bell",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "PA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "005358932",
+            "ParentDUNSNumber": "005358932",
+            "SalesRevenueAmount": [{"$": 3706.4}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "007321904",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Texas Instruments Incorporated"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Dallas",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "TX",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "007321904",
+            "ParentDUNSNumber": "007321904",
+            "SalesRevenueAmount": [{"$": 12825}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "001325463",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Motorola Solutions, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Schaumburg",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "IL",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "001325463",
+            "ParentDUNSNumber": "001325463",
+            "SalesRevenueAmount": [{"$": 8698}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "009122532",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Hewlett-Packard Company"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Palo Alto",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "CA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "009122532",
+            "ParentDUNSNumber": "009122532",
+            "SalesRevenueAmount": [{"$": 120357}],
+            "TopCompetitorIndicator": true
+          },
+          {
+            "DUNSNumber": "001367960",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "General Electric Company"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Fairfield",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "CT",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "001367960",
+            "ParentDUNSNumber": "001367960",
+            "SalesRevenueAmount": [{"$": 147359}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "097447148",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "EMC Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Hopkinton",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "MA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "097447148",
+            "ParentDUNSNumber": "097447148",
+            "SalesRevenueAmount": [{"$": 21713.902}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "009581091",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Computer Sciences Corporation"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Falls Church",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "VA",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "009581091",
+            "ParentDUNSNumber": "009581091",
+            "SalesRevenueAmount": [{"$": 14993}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "080399256",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "CA, Inc."}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "Islandia",
+              "CountryISOAlpha2Code": "US",
+              "TerritoryAbbreviatedName": "NY",
+              "CountryOfficialName": "United States"
+            },
+            "GlobalUltimateDUNSNumber": "080399256",
+            "ParentDUNSNumber": "080399256",
+            "SalesRevenueAmount": [{"$": 4643}],
+            "TopCompetitorIndicator": false
+          },
+          {
+            "DUNSNumber": "216725944",
+            "OrganizationPrimaryName": {"OrganizationName": {"$": "Deloitte Global Services Limited"}},
+            "PrimaryAddress": {
+              "PrimaryTownName": "London",
+              "CountryISOAlpha2Code": "GB",
+              "TerritoryAbbreviatedName": "London",
+              "CountryOfficialName": "United Kingdom"
+            },
+            "GlobalUltimateDUNSNumber": "216725944",
+            "ParentDUNSNumber": "216725944",
+            "SalesRevenueAmount": [{"$": 847.368}],
+            "TopCompetitorIndicator": false
+          }
+        ]
+      }
+  }
+}
